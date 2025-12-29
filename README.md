@@ -105,7 +105,7 @@ https://github.com/Lakhveer-singh/Starbuck-Customer-Survey
 - **Phone:** +91 9795275511  
 - **GitHub:** https://github.com/Lakhveer-singh  
 
-[![LinkedIn](assets/img/linkedin.png)](https://linkedin.com/in/lakhveer-singh-virk/)
+[![LinkedIn]](https://linkedin.com/in/lakhveer-singh-virk/)
 
 
 ---
